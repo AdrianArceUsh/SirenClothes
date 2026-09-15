@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Siren Clothes</title>
+  <title>Siren Clothes -2026</title>
 </head>
 <body>
 
