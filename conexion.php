@@ -1,7 +1,7 @@
 <?php
 // 1. Reemplaza estos valores con las credenciales de la pestaña "Variables" de Railway
-$host     = 'mysql.railway.internal';              // Ejemplo: mysql.railway.internal o el host externo
-$port     = '3306';                                // Ejemplo: 3306 o el puerto asignado
+$host     = 'caboose.proxy.rlwy.net';              // Ejemplo: mysql.railway.internal o el host externo
+$port     = '28144';                                // Ejemplo: 3306 o el puerto asignado
 $db       = 'railway';                             // El nombre de la base de datos
 $user     = 'root';                                // Generalmente 'root'
 $password = 'VGVCtyRuuBgMwVaFlShIqiwyzvOhGLfn';    // La contraseña larga generada por Railway
