@@ -68,7 +68,7 @@ agregar.onclick = async () => {
 // Función para OBTENER los productos desde PHP
 obtener.onclick = async () => {
     try {
-        const respuesta = await fetch("obtener_productos.php");
+        const respuesta = await fetch("https://sirenclothes-production.up.railway.app/obtener_productos.php");
         const productos = await respuesta.json();
 
         // Mapeo adaptado a las columnas exactas de tu tabla 'stock'
